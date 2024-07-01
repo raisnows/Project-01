@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 1459484481
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e60102996f4f4e93cbbf5d14e1bb3e09
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 52dff5e4cd596c4836b75ed6d0a329fc
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e60102996f4f4e93cbbf5d14e1bb3e09
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/Capsule.prefab
+- Assets/New Material 1.mat
+- Assets/TutorialInfo/Icons/URP.png
+Dependencies:
+- "D:/UnityPorject/\u65B0\u5EFA\u6587\u4EF6\u5939/SampleHelloWorld/Assets/StreamingAssets/BuildOutput/LocalAssets/67e688fcdb8e953325a3e8f012eacf95"

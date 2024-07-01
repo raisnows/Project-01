@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 3954408397
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fac9694e0ad2cdf5cac5ff6d0193ee72
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8c633b496b396c03a6967def64c43ec5
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: fac9694e0ad2cdf5cac5ff6d0193ee72
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/New Material.mat
+- "Assets/Resources/\u515A\u652F\u90E8\u5168\u5BB6\u798F.png"
+- Assets/Resources/Sphere.prefab
+Dependencies:
+- "D:/UnityPorject/\u65B0\u5EFA\u6587\u4EF6\u5939/SampleHelloWorld/Assets/StreamingAssets/BuildOutput/LocalAssets/67e688fcdb8e953325a3e8f012eacf95"
